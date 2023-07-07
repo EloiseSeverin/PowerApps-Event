@@ -1,0 +1,30 @@
+{
+  "3f19037d-ba1a-48a7-88f7-432732c3b054": {
+    "connectionRef": {
+      "displayName": "Office 365 Outlook",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/laborbol/partial-builds/390724148/1.0.1641.3327/office365/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365"
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365Outlook"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "3f19037d-ba1a-48a7-88f7-432732c3b054"
+  },
+  "93c6b549-b8af-4bfe-a79c-b13f08cad65b": {
+    "connectionRef": {
+      "displayName": "Office 365 Users",
+      "iconUri": "https://connectoricons-prod.azureedge.net/u/laborbol/partial-builds/390724148/1.0.1641.3327/office365users/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_office365users"
+    },
+    "datasets": {},
+    "dataSources": [
+      "Office365ユーザー"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "93c6b549-b8af-4bfe-a79c-b13f08cad65b"
+  }
+}
